@@ -1,0 +1,5 @@
+{
+    "domain": "google.com",
+    "concurrency": 40,
+    "wordlist": "db/wordlist.txt" 
+}
