@@ -22,6 +22,7 @@
 ```
 
 ## Usage 
+<img src="https://github.com/whoamisec75/subx/blob/main/static/Screenshot%20from%202021-12-01%2019-29-54.png" height="550px" width="400px"/>
 
 First add  `domain`, `concurrency`, `wordlist` in `args.json`: 
 
